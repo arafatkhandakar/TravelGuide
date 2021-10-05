@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Bhutan">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Punakha"
+        android:textSize="20sp"
+        android:gravity="center"
+        >
+    </TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/punakha">
+
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Taktsang Lhakhang or Tiger’s Nest, Paro
+Taktsang Lhakhang or the Tiger’s Nest is Bhutan’s most iconic sight and one of the most popular tourist attractions in Paro. The distinctive structure of the monastery combined with its remote location and the stunning green valley view makes it an unforgettable experience. Reaching this monastery requires a trek of 3-4 hours through the mountainous paths, which is moderate in its difficulty level, hence suitable for everyone physically fit to trek. This monastery was built in 1692 at a cave where it is believed that Guru Rinpoche meditated in the 7th century "
+        />
+
+
+</LinearLayout>

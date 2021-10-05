@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".CoxsBazar">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cox's Bazar"
+        ></TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/coxs"
+        >
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cox’s Bazar, The Tourist Capital of Bangladesh, boasts World's Longest Sea Beach, Forested Hills on Shoreline, colourful conch shells, Old Buddhist Monasteries of Ramu and dining Fresh Sea Food at Majestic Sea Side Restaurants. Blue water of the Bay of Bengal splashing on Golden Sand Beach against a backdrop of picturesque chain of hills creates an unforgettable majestic view.
+
+Over many years Cox's Bazar has been an attraction to both international and domestic tourists. Opportunities of bathing and swimming in shark free warm water makes Cox’s Bazar a top tourist attraction. Besides, opportunities of lazy sunbaths on the private beaches of famous Cox’s Bazar 5 star hotels are also alluring.
+
+During evening Cox’s Bazar provides unique opportunity to observe the beauty of sunset behind the waves. After that tourists can flock to the markets located near the shore and in the town. These markets are a good place to shop for souvenirs’.  Typical items include conchshell showpieces, local made cigars, handwoven clothes and handicrafts from the tribal Rakhaine families.
+
+Visit Cox's Bazar for an Unforgettable Experience."
+        ></TextView>
+
+
+</LinearLayout>

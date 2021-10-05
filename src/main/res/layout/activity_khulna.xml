@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Khulna">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Sundarban"
+    ></TextView>
+
+  <ImageView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:src="@drawable/khulnaimg"
+    >
+
+  </ImageView>
+
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Sundarbans is the largest mangrove forest in the world. It extends across Khulna, Satkhira, Bagerhat, Patuakhali and Barguna districts of Bangladesh. The Sundarbans literally means in Bengali - beautiful forest. But the Sundarbans may have been named after the Sundori tree as well, which grows abundantly there.
+
+Here you can enjoy the monkey's screaming, chirping of the birds and peacock, folks of deer, howl, owl, bee and a roar of the famous Royal Bengal Tiger. There are also 330 species of tree, 270 species of birds, 14 species of reptiles, 42 species of wild animals and 32 species of shrimp and of 200 species of fishes found in Sundarbans. Because of the scenic beauty of Sundarbans, tourists are attracted to visit the forest. Indeed, the number of tourists in the Sundarbans has increased in recent years more than ever. The best time in a year for Sundarbans tour is from mid-October to April.
+
+There are several beautiful places in the Sundarbans. These include Hiron Point, Dubalar Char, Sharankhola, Chalkata, Tiger Point Tower, Tiger Point Sea Beach, Jamtala Sea Beach, Seven River Point, Kalirchar etc.
+
+The main attraction of the Sundarbans is the Royal Bengal Tiger. But in the Sundarbans, you must see the tiger's footprints at least. The footprints give the feelings as if the tiger has passed this route just a while ago. You can also take photographs of these footprints.
+
+You can also visit the Dublar Char. This island of the Bay of Bengal is known as Shutkipolli. Fishermen from various places come here every year during fishing season and create temporary homes. They collect huge amount of fishes from the sea and sell them in the market by making them dry.
+
+The things you must keep while traveling in the Sundarbans are pure water bottles, fast-relief box for primary treatment, one pair of socks, cameras, radios, necessary winter clothes etc.
+
+Besides this nature attraction, there are four more nature attractions listed in Khulna. There's also twelve attractions listed in this district in other categories. You will find the exact location of Sundarbans on the map above."
+      ></TextView>
+
+
+  </LinearLayout>
